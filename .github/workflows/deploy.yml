@@ -49,6 +49,11 @@ jobs:
           port: 22
           script: |
             echo "Starting deployment"
+            sudo apt update
+            sudo apt upgrade -y
+            sudo apt install python3-pip python3-dev libpq-dev -y
+            sudo apt install apache2 libapache2-mod-wsgi-py3 -y
+            sudo apt install git -y
 
             cd /
 
