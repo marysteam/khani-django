@@ -50,7 +50,7 @@ jobs:
           script: |
             echo "Starting deployment"
 
-            cd /yar-django/django-cid
+            cd /fahim_django/fahim-django
 
             git fetch origin
             git checkout master
