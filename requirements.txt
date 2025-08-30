@@ -3,7 +3,6 @@ aiosignal==1.2.0
 amqp==5.2.0
 annotated-types==0.7.0
 anyio==4.9.0
-apturl==0.5.2
 asgiref==3.8.1
 async-timeout==4.0.1
 attrs==25.3.0
