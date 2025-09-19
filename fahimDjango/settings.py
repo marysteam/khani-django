@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-tnon4t6ca30&jsf74ycn5xla4!9#s0s=hm^n#tq2jqx2)_90dz
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['fahim.mypowerly.com', 'www.fahim.mypowerly.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['khani.mypowerly.com', 'www.khani.mypowerly.com', 'localhost', '127.0.0.1 , 145.223.79.113']
 
 
 # Application definition
